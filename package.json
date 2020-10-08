@@ -1,0 +1,16 @@
+{
+  "name": "tavian-network-api",
+  "version": "0.0.1",
+  "description": "Tavian Network Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradley Methorst",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "is-port-reachable": "^3.0.0"
+  }
+}
